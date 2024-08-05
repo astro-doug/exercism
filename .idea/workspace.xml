@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b391810-b166-4a9d-9e42-886683842c36" name="Changes" comment="Getting started project. Just confirms exercism CLI is installed and working. Now on to the real code challenges :)">
+    <list default="true" id="5b391810-b166-4a9d-9e42-886683842c36" name="Changes" comment="Pacman rules implementation - basics of booleans">
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/exchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/currency-exchange/exchange_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in hello_world_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in arcade_game_test.py.executor": "Run",
+    "Python tests.Python tests in exchange_test.py.executor": "Run",
+    "Python tests.Python tests in hello_world_test.py.executor": "Run",
+    "Python tests.Python tests in lasagna_test.py.executor": "Run",
+    "Python.exchange.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,11 +70,49 @@
       <option name="project" value="LOCAL" />
       <updated>1722548084342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1722548910292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722548910292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Guido's Gorgeous Lasagne &quot;challenge&quot;&#10;&#10;basics like constants, methods, return values, etc.">
+      <option name="closed" value="true" />
+      <created>1722625600555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722625600555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pacman rules implementation - basics of booleans">
+      <option name="closed" value="true" />
+      <created>1722889307501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722889307501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Getting started project. Just confirms exercism CLI is installed and working. Now on to the real code challenges :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting started project. Just confirms exercism CLI is installed and working. Now on to the real code challenges :)" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="Guido's Gorgeous Lasagne &quot;challenge&quot;&#10;&#10;basics like constants, methods, return values, etc." />
+    <MESSAGE value="Pacman rules implementation - basics of booleans" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pacman rules implementation - basics of booleans" />
   </component>
 </project>
